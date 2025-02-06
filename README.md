@@ -1,16 +1,15 @@
-## Hi there 👋
+# Портфолио тестировщика 
+_Меня зовут Елизавета, я развиваюсь в тестировании веб- и десктоп-приложений._
 
-<!--
-**lisaRoarua12/lisaRoarua12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📜 Тестовая документация
+* [_Чек-листы и тест-кейсы_]()
+* [_Баг-репорты_]()
+* [_Коллекции в Postman_]()
+* [_SQL-запросы_]()
 
-Here are some ideas to get you started:
+[//]: # (🛠️🐞 Инструменты)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Контакты и резюме
+* [_Резюме_](https://tyumen.hh.ru/applicant/resumes/view?resume=967591e8ff0dbb68160039ed1f4e3173784f4c)
+* [_Telegram_](https://t.me/lisa_roarua)
+* _kargapoltsevaelizaveta@gmail.com_
