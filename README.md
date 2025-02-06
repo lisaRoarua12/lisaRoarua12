@@ -10,6 +10,6 @@ _Меня зовут Елизавета, я развиваюсь в тестир
 [//]: # (🛠️🐞 Инструменты)
 
 ### 📬 Контакты и резюме
-* [_Резюме_](https://tyumen.hh.ru/applicant/resumes/view?resume=967591e8ff0dbb68160039ed1f4e3173784f4c)
+* [_Резюме_](https://drive.google.com/file/d/1v70z2Rt7_KMk4Yf85b_mNVeB_-7UEPNn/view?usp=drive_link)
 * [_Telegram_](https://t.me/lisa_roarua)
 * _kargapoltsevaelizaveta@gmail.com_
